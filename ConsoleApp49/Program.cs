@@ -76,7 +76,7 @@ namespace ConsoleApp49
             while (true)
             {
 
-                float diffVal2 = 0;
+                float diffVal2 = 0; 
                 float grad = 0;
                 Bone b = baseBone;
                 List<float> list = new List<float>();
